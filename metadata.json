@@ -1,0 +1,6 @@
+{
+  "name": "Claude Mobile Autonome",
+  "description": "An autonomous mobile Claude AI clone with rich chat features, live model selections, and responsive sidebar navigation powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
